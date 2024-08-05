@@ -3,14 +3,6 @@
 MediCareHub is a web application designed to provide medical services efficiently. It is built using Django and Bootstrap, offering essential features like booking appointments, an admin panel for managing the platform, and a pharmacy section for easy access to medications.
 
 
-## Features
-
-- **Book Appointments:** Patients can easily schedule medical appointments with their preferred healthcare providers through the platform.
-
-- **Admin Panel:** Healthcare professionals have access to a user-friendly admin panel for managing appointments, patient records, and other vital aspects of the system.
-
-- **Pharmacy Section:** Users can browse and purchase medications through the integrated pharmacy section.
-
 ## Installation
 
 To get started with MediCareHub on your local machine, follow these steps:
